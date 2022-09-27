@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.Form1.resources
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.Properties.Resources.resources
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\ProjectRunner.exe.config
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\ProjectRunner.exe
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\ProjectRunner.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaVista.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaVista.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.csproj.CopyComplete
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.exe
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.pdb
