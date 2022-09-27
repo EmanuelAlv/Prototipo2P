@@ -44,12 +44,15 @@ namespace CapaVista
             this.informesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.ventasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.inventariosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // contextMenuStrip1
             // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.abrirToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
@@ -68,7 +71,7 @@ namespace CapaVista
             this.catalogosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.procesosToolStripMenuItem});
             this.catalogosToolStripMenuItem.Name = "catalogosToolStripMenuItem";
-            this.catalogosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.catalogosToolStripMenuItem.Size = new System.Drawing.Size(127, 22);
             this.catalogosToolStripMenuItem.Text = "Catalogos";
             // 
             // procesosToolStripMenuItem
@@ -76,7 +79,7 @@ namespace CapaVista
             this.procesosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.informesToolStripMenuItem});
             this.procesosToolStripMenuItem.Name = "procesosToolStripMenuItem";
-            this.procesosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.procesosToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.procesosToolStripMenuItem.Text = "Procesos";
             // 
             // informesToolStripMenuItem
@@ -84,7 +87,7 @@ namespace CapaVista
             this.informesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.herramientasToolStripMenuItem});
             this.informesToolStripMenuItem.Name = "informesToolStripMenuItem";
-            this.informesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.informesToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.informesToolStripMenuItem.Text = "Informes";
             // 
             // herramientasToolStripMenuItem
@@ -92,17 +95,18 @@ namespace CapaVista
             this.herramientasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ayudaToolStripMenuItem});
             this.herramientasToolStripMenuItem.Name = "herramientasToolStripMenuItem";
-            this.herramientasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.herramientasToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.herramientasToolStripMenuItem.Text = "Herramientas";
             // 
             // ayudaToolStripMenuItem
             // 
             this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
-            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(108, 22);
             this.ayudaToolStripMenuItem.Text = "Ayuda";
             // 
             // menuStrip1
             // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.abrirToolStripMenuItem1,
             this.catalogosToolStripMenuItem1,
@@ -136,6 +140,9 @@ namespace CapaVista
             // 
             // informesToolStripMenuItem1
             // 
+            this.informesToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ventasToolStripMenuItem1,
+            this.inventariosToolStripMenuItem1});
             this.informesToolStripMenuItem1.Name = "informesToolStripMenuItem1";
             this.informesToolStripMenuItem1.Size = new System.Drawing.Size(66, 20);
             this.informesToolStripMenuItem1.Text = "Informes";
@@ -151,6 +158,20 @@ namespace CapaVista
             this.ayudaToolStripMenuItem1.Name = "ayudaToolStripMenuItem1";
             this.ayudaToolStripMenuItem1.Size = new System.Drawing.Size(53, 20);
             this.ayudaToolStripMenuItem1.Text = "Ayuda";
+            // 
+            // ventasToolStripMenuItem1
+            // 
+            this.ventasToolStripMenuItem1.Name = "ventasToolStripMenuItem1";
+            this.ventasToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.ventasToolStripMenuItem1.Text = "Ventas";
+            this.ventasToolStripMenuItem1.Click += new System.EventHandler(this.ventasToolStripMenuItem1_Click);
+            // 
+            // inventariosToolStripMenuItem1
+            // 
+            this.inventariosToolStripMenuItem1.Name = "inventariosToolStripMenuItem1";
+            this.inventariosToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.inventariosToolStripMenuItem1.Text = "Inventarios";
+            this.inventariosToolStripMenuItem1.Click += new System.EventHandler(this.inventariosToolStripMenuItem1_Click);
             // 
             // ContenedorMDI
             // 
@@ -186,5 +207,7 @@ namespace CapaVista
         private System.Windows.Forms.ToolStripMenuItem informesToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem herramientasToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem ventasToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem inventariosToolStripMenuItem1;
     }
 }

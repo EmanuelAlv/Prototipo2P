@@ -10,3 +10,9 @@ C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaModelo\obj\Debug\CapaModelo.dll
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\ModernizacionEmpresa\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\ModernizacionEmpresa\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\ModernizacionEmpresa\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\ModernizacionEmpresa\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\ModernizacionEmpresa\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\ModernizacionEmpresa\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
