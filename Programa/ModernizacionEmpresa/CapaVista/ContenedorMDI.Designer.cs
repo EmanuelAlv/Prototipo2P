@@ -42,10 +42,10 @@ namespace CapaVista
             this.catalogosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.informesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.herramientasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.ayudaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.ventasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.inventariosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.herramientasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.ayudaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -147,6 +147,20 @@ namespace CapaVista
             this.informesToolStripMenuItem1.Size = new System.Drawing.Size(66, 20);
             this.informesToolStripMenuItem1.Text = "Informes";
             // 
+            // ventasToolStripMenuItem1
+            // 
+            this.ventasToolStripMenuItem1.Name = "ventasToolStripMenuItem1";
+            this.ventasToolStripMenuItem1.Size = new System.Drawing.Size(132, 22);
+            this.ventasToolStripMenuItem1.Text = "Ventas";
+            this.ventasToolStripMenuItem1.Click += new System.EventHandler(this.ventasToolStripMenuItem1_Click);
+            // 
+            // inventariosToolStripMenuItem1
+            // 
+            this.inventariosToolStripMenuItem1.Name = "inventariosToolStripMenuItem1";
+            this.inventariosToolStripMenuItem1.Size = new System.Drawing.Size(132, 22);
+            this.inventariosToolStripMenuItem1.Text = "Inventarios";
+            this.inventariosToolStripMenuItem1.Click += new System.EventHandler(this.inventariosToolStripMenuItem1_Click);
+            // 
             // herramientasToolStripMenuItem1
             // 
             this.herramientasToolStripMenuItem1.Name = "herramientasToolStripMenuItem1";
@@ -159,20 +173,6 @@ namespace CapaVista
             this.ayudaToolStripMenuItem1.Size = new System.Drawing.Size(53, 20);
             this.ayudaToolStripMenuItem1.Text = "Ayuda";
             // 
-            // ventasToolStripMenuItem1
-            // 
-            this.ventasToolStripMenuItem1.Name = "ventasToolStripMenuItem1";
-            this.ventasToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
-            this.ventasToolStripMenuItem1.Text = "Ventas";
-            this.ventasToolStripMenuItem1.Click += new System.EventHandler(this.ventasToolStripMenuItem1_Click);
-            // 
-            // inventariosToolStripMenuItem1
-            // 
-            this.inventariosToolStripMenuItem1.Name = "inventariosToolStripMenuItem1";
-            this.inventariosToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
-            this.inventariosToolStripMenuItem1.Text = "Inventarios";
-            this.inventariosToolStripMenuItem1.Click += new System.EventHandler(this.inventariosToolStripMenuItem1_Click);
-            // 
             // ContenedorMDI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -182,7 +182,7 @@ namespace CapaVista
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "ContenedorMDI";
-            this.Text = "ContenedorMDI";
+            this.Text = "0901-16-15355 Walter Emanuel Alvarez Hernandez";
             this.contextMenuStrip1.ResumeLayout(false);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
