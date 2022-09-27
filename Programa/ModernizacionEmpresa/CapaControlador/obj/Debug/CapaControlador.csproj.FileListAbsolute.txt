@@ -1,0 +1,15 @@
+C:\Users\alvar\source\repos\PractivaMVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\alvar\source\repos\PractivaMVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\alvar\source\repos\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\alvar\source\repos\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaControlador\obj\Debug\CapaControlador.pdb

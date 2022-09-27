@@ -1,0 +1,34 @@
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\alvar\source\repos\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\3 Capacitacion MVC\PractivaMVC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\obj\Debug\CapaVista.ContenedorMDI.resources
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\PractivaMVC\CapaVista\obj\Debug\CapaVista.pdb
