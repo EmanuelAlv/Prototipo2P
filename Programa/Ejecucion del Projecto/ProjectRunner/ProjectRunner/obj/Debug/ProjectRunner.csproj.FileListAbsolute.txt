@@ -6,8 +6,12 @@ C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\ProjectRunner.exe.config
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\ProjectRunner.exe
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\ProjectRunner.pdb
-C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaVista.dll
-C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaVista.pdb
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.csproj.CopyComplete
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.exe
 C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\obj\Debug\ProjectRunner.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaVista.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaVista.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaControlador.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaModelo.dll
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaControlador.pdb
+C:\Users\alvar\OneDrive\U\Analisis de sistemas II\parcial 2\proyecto\Prototipo2P\Programa\Ejecucion del Projecto\ProjectRunner\ProjectRunner\bin\Debug\CapaModelo.pdb
